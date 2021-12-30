@@ -1,4 +1,4 @@
-//fet access token using fetch access token class
+//fetch access token using fetch access token class
 //call the method on this class
 //add company id an minor version in endpoint 
 //add access token on header authorization
